@@ -31,6 +31,6 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           # Add all three necessary files
-          git add index.html CNAME .nojekyll
+          git add index.html .nojekyll
           git commit -m "Update root index from plugins.json" || echo "No changes"
           git push
