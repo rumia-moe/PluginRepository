@@ -1,0 +1,36 @@
+name: Deploy
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Prepare Files for Root Deployment
+        run: |
+          # 1. Ensure the file exists (fails if you forgot to create it)
+          if [ ! -f "plugins.json" ]; then echo "plugins.json not found!"; exit 1; fi
+          
+          # 2. Copy plugins.json to index.html so it serves at the root "/"
+          cp plugins.json index.html
+          
+          # 4. Prevent Jekyll from messing with JSON formatting
+          touch .nojekyll
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          # Add all three necessary files
+          git add index.html CNAME .nojekyll
+          git commit -m "Update root index from plugins.json" || echo "No changes"
+          git push
