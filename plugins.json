@@ -1,19 +1,19 @@
 [
   {
-    Author: "rumia-moe",
-    Name: "PatMeMoodles",
-    Description: "Display emote counters with the Moodles plugin.",
-    InternalName: "PatMeMoodles",
-    AssemblyVersion: "1.0.0.0",
-    TestingAssemblyVersion: null,
-    RepoUrl: "https://github.com/rumia-moe/PatMeMoodles",
-    ApplicableVersion: "any",
-    DalamudApiLevel: 10,
-    Punchline: "Emotes counters with icons!",
-    IsHide: false,
-    IsTestingExclusive: false,
-    DownloadLinkInstall: "https://github.com/rumia-moe/PatMeMoodles/releases/download/v1.0.0/Release.zip",
-    DownloadLinkUpdate: "https://github.com/rumia-moe/PatMeMoodles/releases/download/v1.0.0/Release.zip",
-    LastUpdate: "1770897698"
+    "Author": "rumia-moe",
+    "Name": "PatMeMoodles",
+    "Description": "Display emote counters with the Moodles plugin.",
+    "InternalName": "PatMeMoodles",
+    "AssemblyVersion": "1.0.0.0",
+    "TestingAssemblyVersion": null,
+    "RepoUrl": "https://github.com/rumia-moe/PatMeMoodles",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 10,
+    "Punchline": "Emotes counters with icons!",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkInstall": "https://github.com/rumia-moe/PatMeMoodles/releases/download/v1.0.0/Release.zip",
+    "DownloadLinkUpdate": "https://github.com/rumia-moe/PatMeMoodles/releases/download/v1.0.0/Release.zip",
+    "LastUpdate": "1770897698"
   }
 ]
