@@ -20,5 +20,26 @@
     "IsTestingExclusive": "False",
     "DownloadLinkInstall": "https://github.com/rumia-moe/PatMeMoodles/releases/download/1.0.0.2/Release.zip",
     "DownloadLinkUpdate": "https://github.com/rumia-moe/PatMeMoodles/releases/download/1.0.0.2/Release.zip"
+  },
+  {
+    "Author": "rumia-moe",
+    "Name": "GambaMoodles",
+    "InternalName": "GambaMoodles",
+    "AssemblyVersion": "1.0.0.0",
+    "Description": "Tracks winning using Moodles.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/rumia-moe/PatMeMoodles",
+    "Tags": [
+      "plugin",
+      "moodles"
+    ],
+    "DalamudApiLevel": "14",
+    "TestingDalamudApiLevel": "14",
+    "LoadPriority": 0,
+    "Punchline": "Track your losses!",
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadLinkInstall": "https://github.com/rumia-moe/PatMeMoodles/releases/download/gamba-1.0.0.0/Release.zip",
+    "DownloadLinkUpdate": "https://github.com/rumia-moe/PatMeMoodles/releases/download/gamba-1.0.0.0/Release.zip"
   }
 ]
