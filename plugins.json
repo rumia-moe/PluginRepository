@@ -3,7 +3,7 @@
     "Author": "rumia-moe",
     "Name": "PatMeMoodles",
     "InternalName": "PatMeMoodles",
-    "AssemblyVersion": "1.0.0.6",
+    "AssemblyVersion": "1.0.0.7",
     "Description": "Display emote counters with the Moodles plugin.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/rumia-moe/PatMeMoodles",
@@ -18,14 +18,14 @@
     "Punchline": "Emotes counters with icons!",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadLinkInstall": "https://github.com/rumia-moe/PatMeMoodles/releases/download/1.0.0.6/Release.zip",
-    "DownloadLinkUpdate": "https://github.com/rumia-moe/PatMeMoodles/releases/download/1.0.0.6/Release.zip"
+    "DownloadLinkInstall": "https://github.com/rumia-moe/PatMeMoodles/releases/download/1.0.0.7/Release.zip",
+    "DownloadLinkUpdate": "https://github.com/rumia-moe/PatMeMoodles/releases/download/1.0.0.7/Release.zip"
   },
   {
     "Author": "rumia-moe",
     "Name": "GambaMoodles",
     "InternalName": "GambaMoodles",
-    "AssemblyVersion": "1.0.0.6",
+    "AssemblyVersion": "1.0.0.7",
     "Description": "Tracks winning using Moodles.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/rumia-moe/PatMeMoodles",
@@ -39,7 +39,7 @@
     "Punchline": "Track your losses!",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadLinkInstall": "https://github.com/rumia-moe/PatMeMoodles/releases/download/gamba-1.0.0.6/Release.zip",
-    "DownloadLinkUpdate": "https://github.com/rumia-moe/PatMeMoodles/releases/download/gamba-1.0.0.6/Release.zip"
+    "DownloadLinkInstall": "https://github.com/rumia-moe/PatMeMoodles/releases/download/gamba-1.0.0.7/Release.zip",
+    "DownloadLinkUpdate": "https://github.com/rumia-moe/PatMeMoodles/releases/download/gamba-1.0.0.7/Release.zip"
   }
 ]
