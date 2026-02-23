@@ -18,8 +18,8 @@
     "Punchline": "Emotes counters with icons!",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadLinkInstall": "https://github.com/rumia-moe/PatMeMoodles/releases/download/1.0.0.5/Release.zip",
-    "DownloadLinkUpdate": "https://github.com/rumia-moe/PatMeMoodles/releases/download/1.0.0.5/Release.zip"
+    "DownloadLinkInstall": "https://github.com/rumia-moe/PatMeMoodles/releases/download/1.0.0.8/Release.zip",
+    "DownloadLinkUpdate": "https://github.com/rumia-moe/PatMeMoodles/releases/download/1.0.0.8/Release.zip"
   },
   {
     "Author": "rumia-moe",
@@ -39,7 +39,7 @@
     "Punchline": "Track your losses!",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadLinkInstall": "https://github.com/rumia-moe/PatMeMoodles/releases/download/gamba-1.0.0.5/Release.zip",
-    "DownloadLinkUpdate": "https://github.com/rumia-moe/PatMeMoodles/releases/download/gamba-1.0.0.5/Release.zip"
+    "DownloadLinkInstall": "https://github.com/rumia-moe/PatMeMoodles/releases/download/gamba-1.0.0.8/Release.zip",
+    "DownloadLinkUpdate": "https://github.com/rumia-moe/PatMeMoodles/releases/download/gamba-1.0.0.8/Release.zip"
   }
 ]
